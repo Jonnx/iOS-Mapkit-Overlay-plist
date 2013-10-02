@@ -10,5 +10,4 @@ Supported Regions
 Currently only 50 US states are included in the file. Feel free to add more regions, countries,
 and states if you have the data. 
 
--	USA: Alaska **US_AK**
--	USA: Alabama **"US_LA"**
+The USA states are accessible in the dictionary with the key **US_[*State Short Code (ie: NY, NJ, PA, etc...*]**
