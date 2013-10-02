@@ -11,4 +11,4 @@ Currently only 50 US states are included in the file. Feel free to add more regi
 and states if you have the data. 
 
 The USA states are accessible in the dictionary with the key: 
-**US_[***NY, CA, etc...***]**
+**US_[** *NY, CA, etc* **]**
