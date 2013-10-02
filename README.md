@@ -10,5 +10,5 @@ Supported Regions
 Currently only 50 US states are included in the file. Feel free to add more regions, countries,
 and states if you have the data. 
 
--	USA: Alaska
-	key: US_AK
+-	USA: Alaska **US_AK**
+-	USA: Alabama **"US_LA"**
